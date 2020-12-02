@@ -1,0 +1,7 @@
+gym
+gym-retro
+numpy
+retrowrapper
+opencv-python
+tensorflow
+tensorflow_probability

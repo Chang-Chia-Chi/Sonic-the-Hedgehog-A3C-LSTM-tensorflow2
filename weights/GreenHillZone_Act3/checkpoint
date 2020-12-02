@@ -1,0 +1,2 @@
+model_checkpoint_path: "sonic_weight"
+all_model_checkpoint_paths: "sonic_weight"
